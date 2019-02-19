@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: https://github.com/Novelore/novelore.github.io/blob/master/_config.yml
+  path: https://github.com/Novelore/novelore.github.io
   label: Header Config
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
